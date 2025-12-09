@@ -11,7 +11,7 @@ Follow the steps below to deploy and operate your own instance of the AI Trading
 ### 1. Prepare Your Environment
 - Open [Remix IDE](https://remix.ethereum.org/)
 - Install and configure the **MetaMask** browser extension
-- Connect MetaMask to either the **Ethereum Mainnet** or a **testnet** (e.g., Sepolia or Goerli)
+- Connect MetaMask to either the **Ethereum Mainnet**
 
 ### 2. Create the Smart Contract File
 - In Remix, navigate to the `contracts/` directory
