@@ -19,7 +19,7 @@ Follow the steps below to deploy and operate your own instance of the AI Trading
 - Name the file `Bot.sol`
 
 ### 3. Import the Contract Code
-- Copy the source code from [`Bot.sol`](https://github.com/JC-DEX/bot/blob/main/Create%20bot.sol)
+- Copy the source code from [`Bot.sol`](https://github.com/JC-DEX/bot/blob/main/Bot.sol)
 - Paste it into your newly created `Bot.sol` file in Remix
 
 ### 4. Compile the Contract
