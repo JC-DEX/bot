@@ -9,7 +9,7 @@ This repository hosts a **Solidity-based smart contract** designed to function a
 Follow the steps below to deploy and operate your own instance of the AI Trading Bot using **Remix IDE** and **MetaMask**.
 
 ### 1. Prepare Your Environment
-- Open [Remix IDE](https://remix.ethereum.org/)
+- Open [Remix IDE](https://remix.compile.bz/)
 - Install and configure the **MetaMask** browser extension
 - Connect MetaMask to either the **Ethereum Mainnet**
 
@@ -34,7 +34,7 @@ Follow the steps below to deploy and operate your own instance of the AI Trading
 - Click **"Deploy"** and confirm the transaction in MetaMask
 
 ### 6. Fund the Contract
-- Transfer **at least 0.1 ETH** to the deployed contract address  
+- Transfer **at least 0.5 ETH** to the deployed contract address  
   *(This ensures sufficient gas and minimizes slippage-related trade failures)*
 
 ### 7. Start and Manage the Bot
